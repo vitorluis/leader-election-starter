@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.vitorvillar.leaderelection.config.LeaderElectionAutoConfiguration
